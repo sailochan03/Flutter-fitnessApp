@@ -9,4 +9,4 @@ Welcome to my new Flutter project! This app is designed to help you keep track o
 -Breakfast Options: Explore various breakfast options, complete with calorie information for each dish.
 
 ## Screenshots
-Check out the screenshots of the app in action [here]. (https://drive.google.com/drive/folders/1qPQnZjc7mWI7hiM55s5cw4eVM2OjnVjW?usp=sharing)
+Check out the screenshots of the app in action [here](https://drive.google.com/drive/folders/1qPQnZjc7mWI7hiM55s5cw4eVM2OjnVjW?usp=sharing).
